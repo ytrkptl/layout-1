@@ -10,3 +10,7 @@ Feel free to use this if you want.
 - It does not rely on any extra dependencies besides what comes preinstalled with create-react-app
 
 - Note the background colors are kept the way they are to show each section and should be modified based on your needs.
+
+- It's very responsive. Checkout the preview below:
+
+![layout-1 responsive preview](/src/assets/layout-1-responsive-preview.png)
