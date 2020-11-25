@@ -1,5 +1,8 @@
 # layout-1
 
+The live demo of this layout can be found here:
+<https://react-layout-1.netlify.app/>
+
 Here's a preview of it:
 ![layout-1 preview](/src/assets/layout-1-preview.png)
 
