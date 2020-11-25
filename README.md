@@ -3,7 +3,7 @@
 Here's a preview of it:
 ![layout-1 preview](/src/assets/layout-1-preview.png)
 
-Just making pre-made create-react-app layouts/templates for myself to use so I can "git clone" and get up and running faster.
+Just making pre-made create-react-app layouts/templates for myself to use so I can "git clone" and get up and going faster.
 
 Feel free to use this if you want.
 
